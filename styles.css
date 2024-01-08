@@ -439,6 +439,11 @@
     border-radius: 0px 50px 50px 0px;
     background: #F00;
     padding-left: -10px;
+    cursor: pointer;
+    
+}
+.btn-subscribe:hover{
+    background-color: rgb(59, 221, 18);
 }
 #Subscribe{
     color: #FFF;
@@ -479,8 +484,17 @@ footer{
     line-height: 10px; /* 166.667% */
 }
 
-.footer-icon{
+/* .footer-icon{
     text-align: center;
+} */
+
+.social-icon{
+    text-align: center;
+    cursor: pointer;
+    
+}
+.social-icon:hover{
+    color: rgb(223, 3, 22);
 }
 
 .lastfooter{
@@ -504,3 +518,4 @@ footer{
     margin-right: 140px;
     
 }
+
