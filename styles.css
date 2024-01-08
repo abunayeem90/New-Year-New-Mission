@@ -482,6 +482,11 @@ footer{
     margin-top: 120px;
     line-height: 10px; /* 166.667% */
 }
+
+.footer-icon{
+    text-align: center;
+}
+
 .lastfooter{
     display: flex;
     color: #FFF;
