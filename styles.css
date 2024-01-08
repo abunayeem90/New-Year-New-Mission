@@ -1,7 +1,4 @@
-*{
 
-
-}
 
 
 .container{
@@ -50,7 +47,7 @@
     line-height: 95px; /* 131.944% */
 
 }
-.off ,.hollyday ,.category{
+.off,.hollyday,.category{
     font-weight: bold;
     text-align: center;
     font-family: Inter;
@@ -467,13 +464,12 @@ footer{
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
-    line-height: 40px; 166.667%
-    
-    
+    line-height: 40px; 
+   
 }
 .address{
     font-weight: 500;
-    line-height: 40px; 166.667%
+    line-height: 40px; 
     margin-left: 300px;
     margin-top: 150px;
    
